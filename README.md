@@ -13,7 +13,7 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
 
 Desarrollando mis sueños desde Argentina - Buenos Aires
 
-## Encuentrame en:
+## Encuentrame en: 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@mlopezdev_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/MLOPEZDEV_/)
