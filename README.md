@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mlopezDeveloper?style=social)](https://github.com/mlopezDeveloper)
 
-## Sobre mi
+## Sobre mi 
 Soy programador desde 2019. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
 
 Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir mis conocimientos para comprender todas sus lógicas, crear mi propia empresa tecnológica y convertirme en un divulgador de la programación. Aspiro a construir una comunidad global de programadores y ser reconocido como un destacado profesional en el campo.
